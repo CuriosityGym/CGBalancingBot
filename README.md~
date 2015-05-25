@@ -14,4 +14,7 @@ at least a few seconds.
 Finally, increase D so that the robot would move
 about its balanced position more gentle, and there
 shouldn’t be any significant overshoots.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 65fd19aa70e18c7a57d9e1e9126aca8ac46e70c6
